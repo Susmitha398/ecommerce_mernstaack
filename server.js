@@ -12,5 +12,5 @@ connectDatabase();
 const PORT = process.env.PORT || 8000;
 
 app.listen(PORT, () => {
-    console.log(`Server listening on port ${PORT} in ${process.env.NODE_ENV || 'development'} mode`);
+    console.log(`my Server listening on port ${PORT} in ${process.env.NODE_ENV || 'development'} mode`);
 });

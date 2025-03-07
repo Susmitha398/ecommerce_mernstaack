@@ -1,0 +1,81 @@
+[
+    {
+      "name": "Wireless Headphones",
+      "price": 59.99,
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "ratings": 4.5,
+      "images": [
+        { "image": "https://example.com/images/headphones1.jpg" },
+        { "image": "https://example.com/images/headphones2.jpg" }
+      ],
+      "category": "headphone",
+      "seller": "TechStore",
+      "stock": 15,
+      "numberofreviews": 120,
+      "review": [
+        {
+          "name": "John Doe",
+          "ratings": 5,
+          "comment": "Great sound quality and battery life!"
+        },
+        {
+          "name": "Jane Smith",
+          "ratings": 4,
+          "comment": "Comfortable but a bit expensive."
+        }
+      ]
+    },
+    {
+      "name": "Gaming Laptop",
+      "price": 1299.99,
+      "description": "Powerful gaming laptop with high-performance graphics card.",
+      "ratings": 4.7,
+      "images": [
+        { "image": "https://example.com/images/laptop1.jpg" },
+        { "image": "https://example.com/images/laptop2.jpg" }
+      ],
+      "category": "laptop",
+      "seller": "GamingWorld",
+      "stock": 8,
+      "numberofreviews": 250,
+      "review": [
+        {
+          "name": "Alice Brown",
+          "ratings": 5,
+          "comment": "Handles all games smoothly, very satisfied!"
+        },
+        {
+          "name": "Michael Lee",
+          "ratings": 4,
+          "comment": "Good performance but heats up a bit."
+        }
+      ]
+    },
+    {
+      "name": "Men's Running Shoes",
+      "price": 79.99,
+      "description": "Lightweight and comfortable running shoes for men.",
+      "ratings": 4.3,
+      "images": [
+        { "image": "https://example.com/images/shoes1.jpg" },
+        { "image": "https://example.com/images/shoes2.jpg" }
+      ],
+      "category": "shoes",
+      "seller": "SportyFeet",
+      "stock": 20,
+      "numberofreviews": 85,
+      "review": [
+        {
+          "name": "David Wilson",
+          "ratings": 5,
+          "comment": "Perfect fit and great for long runs!"
+        },
+        {
+          "name": "Emma Taylor",
+          "ratings": 3,
+          "comment": "Not very durable, but comfortable."
+        }
+      ]
+    }
+  ]
+  
